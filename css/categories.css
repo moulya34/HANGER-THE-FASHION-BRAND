@@ -1,0 +1,59 @@
+/* */
+
+main{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+.header5 {
+    margin-top: 100px;
+    background-color:pink;
+    color:black;
+    padding: 10px 20px;
+}
+
+.mylist {
+    display: flex; 
+    justify-content: center;
+    gap: 50px;
+    font-size: 30px;
+    list-style: none;
+}
+
+
+
+/* products */
+
+
+
+
+.main {
+    justify-content: space-around;
+    padding: 50px;
+    
+
+}
+.eth {
+  display: flex;
+  flex-wrap: wrap;
+  /* padding-right: 30px; */
+  font-family: 'Montserrat', sans-serif;
+ 
+}
+
+.item {
+  margin: 30px;
+  text-align: center;
+
+}
+
+.item img {
+  width: 200px; /* Adjust width as needed */
+  height: 200px;
+}
+
+.item p,
+.item button {
+  margin-top: 10px;
+}
